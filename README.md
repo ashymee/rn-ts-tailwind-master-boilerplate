@@ -2,7 +2,7 @@
 
 > this boilerplate using Typescript, TailwindCSS and Zustand.
 
-> There's no one overwhelmed again to start your first React Native app.
+_There's no one overwhelmed again to start your first React Native app._
 
 ### How to use
 
@@ -12,7 +12,7 @@ clone this repo
 git clone https://github.com/ashymee/rn-ts-tailwind-master-boilerplate.git
 ```
 
-install all packages needed,
+install all packages needed
 
 ```bash
 # use npx
@@ -28,7 +28,7 @@ run from your local env
 npx expo start
 ```
 
-then follow instruction appear in your terminal..
+then, follow the instruction appear in your terminal..
 
 ---
 
