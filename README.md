@@ -1,8 +1,8 @@
 # React Native Master Boilerplate
 
-> this boilerplate using Typescript, TailwindCSS and Zustand.
+> Using Typescript, TailwindCSS and Zustand.
 
-_There's no one overwhelmed again to start your first React Native app._
+_This is suitable for beginners, who overwhelmed when start the first React Native app._
 
 ### How to use
 
