@@ -1,4 +1,4 @@
-# React Native Master Boilerplate
+# React Native Project Starter
 
 > Using Typescript, TailwindCSS and Zustand.
 
@@ -9,13 +9,13 @@ _This is suitable for beginners, who overwhelmed when start the first React Nati
 clone this repo
 
 ```bash
-git clone https://github.com/ashymee/rn-ts-tailwind-master-boilerplate.git
+git clone https://github.com/ashymee/rn-ts-tailwind-project-starter.git
 ```
 
-jump to `rn-ts-tailwind-master-boilerplate` directory
+jump to `rn-ts-tailwind-project-starter` directory
 
 ```bash
-cd rn-ts-tailwind-master-boilerplate/
+cd rn-ts-tailwind-project-starter/
 ```
 
 install all packages needed
