@@ -1,6 +1,5 @@
+import useStore from '@utils/store';
 import { Text, TouchableOpacity, View } from 'react-native';
-
-import useStore from '../utils/store';
 
 const Counter = () => {
   const { count, setCount } = useStore();
