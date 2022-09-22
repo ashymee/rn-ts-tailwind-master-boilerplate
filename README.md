@@ -12,6 +12,12 @@ clone this repo
 git clone https://github.com/ashymee/rn-ts-tailwind-master-boilerplate.git
 ```
 
+jump to `rn-ts-tailwind-master-boilerplate` directory
+
+```bash
+cd rn-ts-tailwind-master-boilerplate/
+```
+
 install all packages needed
 
 ```bash
@@ -29,6 +35,10 @@ npx expo start
 ```
 
 then, follow the instruction appear in your terminal..
+
+### Voila
+
+![first page](./ss.png)
 
 ---
 
