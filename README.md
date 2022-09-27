@@ -38,7 +38,7 @@ then, follow the instruction appear in your terminal..
 
 ### Voila
 
-![first page](./ss.png)
+![first page](./assets/ss.png)
 
 ---
 
